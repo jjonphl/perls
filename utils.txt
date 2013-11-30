@@ -1,0 +1,24 @@
+I. programs
+1. cat [DONE]
+2. split [DONE]
+3. md5sum [DONE]
+4. head [DONE]
+5. tail [DONE]
+6. hexdump
+7. sort [DONE]
+8. wc (doing)
+9. du, df
+10. tee [DONE]
+11. cut (doing, equiv to perl split())
+12. ping (doing, Net::Perl hires)
+13. find (find2perl,doing)
+14. time [DONE]
+15. xargs (doing)
+16. grep
+17. lsync (local sync)
+
+II. packages
+1. textutils
+2. iputils
+3. binutils
+4. 
